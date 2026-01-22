@@ -1,2 +1,3 @@
-# jeferson
-semear-studio
+•	index.html
+	•	portfolio.html
+	•	contato.html
